@@ -1,8 +1,8 @@
-* Bootstrap Visualization Dashboard - CSS Style Sheet 
+/* Bootstrap Visualization Dashboard - CSS Style Sheet 
 */
 
 /* Body */
-body {
+.body {
   height: 1020px;
   background-position: center;
   background-repeat: no-repeat;
